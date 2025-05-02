@@ -8,14 +8,15 @@
 title: "Francisco Libano-Monteiro"
 description: "PhD student at the London School of Economics"
 url: "https://mfsdlm98.github.io"
-baseurl: ""  # MUST be empty for personal GitHub Pages site
+baseurl: ""  # Leave empty for personal GitHub Pages site
 repository: "mfsdlm98/mfsdlm98.github.io"
 
 author:
   name: "Francisco Libano-Monteiro"
+  avatar: "phd_picture_lowres.jpg"  # Place this image in /images
+  bio: "PhD student in Economics at LSE"
   email: "m.f.libano-monteiro@lse.ac.uk"
   location: "London, UK"
-  avatar: "profile.png"
   employer: "London School of Economics"
   googlescholar: "https://scholar.google.co.uk/citations?user=YHtSUGIAAAAJ&hl=pt-PT&oi=ao"
   github: "mfsdlm98"
@@ -42,12 +43,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
 
 markdown: kramdown
 kramdown:
@@ -55,3 +60,9 @@ kramdown:
   auto_ids: true
 
 permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji

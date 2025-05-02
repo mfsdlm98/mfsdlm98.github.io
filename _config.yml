@@ -7,9 +7,9 @@
 # server process.
 title: "Francisco Libano-Monteiro"
 description: "PhD student at the London School of Economics"
-url: "https://academicpages.github.io"
-baseurl: ""
-repository: "academicpages/academicpages.github.io"
+url: "https://mfsdlm98.github.io"
+baseurl: ""  # MUST be empty for personal GitHub Pages site
+repository: "mfsdlm98/mfsdlm98.github.io"
 
 author:
   name: "Francisco Libano-Monteiro"
@@ -20,12 +20,10 @@ author:
   googlescholar: "https://scholar.google.co.uk/citations?user=YHtSUGIAAAAJ&hl=pt-PT&oi=ao"
   github: "mfsdlm98"
 
-# Includes custom folders
 include:
   - _pages
   - files
 
-# Collections (optional – only if you use them)
 collections:
   teaching:
     output: true
@@ -37,7 +35,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Layout defaults
 defaults:
   - scope:
       path: ""
@@ -46,18 +43,15 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
 
-# Markdown settings
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
 
-# Output settings
 permalink: /:categories/:title/

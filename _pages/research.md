@@ -7,8 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)**  
-_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ May, 2025 
+**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** May, 2025  
+_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ 
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -23,8 +23,8 @@ We find that the project secured property rights and access, raised land values 
 </details>
 <br/>
 
-**[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)**  
-_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ April, 2021
+**[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** April, 2021 
+_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ 
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>

@@ -24,6 +24,7 @@ We find that the project secured property rights and access, raised land values 
 <br/>
 
 **[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** April, 2021 
+
 _With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ 
 <details>
 <summary><strong>Abstract</strong></summary>

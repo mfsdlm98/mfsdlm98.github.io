@@ -11,4 +11,4 @@ My research interests are **income dynamics/mobility** and **inequality**. I als
 
 I hold a BSc in Economics from Nova SBE and an MSc in Economics from the London School of Economics.
 
-Here you'll find more about my [research](/research/), [teaching](/teaching/), and [CV](/files/CV_FranciscoLibanoMonteiro_20250502.pdf).
+Here you'll find more about my [research](/research/), [teaching](/teaching/), and [CV](/files/CV_FranciscoLibanoMonteiro_20250502.pdf). You can reach me at m.f.libano-monteiro@lse.ac.uk

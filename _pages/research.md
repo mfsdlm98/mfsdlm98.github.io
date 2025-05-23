@@ -41,7 +41,7 @@ Energy use and CO₂ emissions dropped, but mostly because of the persistent dec
 
 ## Work in Progress
 
-**Decomposing Changes in Aggregate Mobility**  
+**Decomposing Changes in Aggregate Income Mobility**  
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>

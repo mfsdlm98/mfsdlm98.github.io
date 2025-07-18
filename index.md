@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Francisco Libano-Monteiro"
+title: "Francisco Libano-Monteiro | PhD Student in Economics at LSE"
+description: "Personal website of Francisco Libano-Monteiro, PhD student in Economics at the London School of Economics. Research on inequality, income mobility, and urban economics."
 permalink: /
 author_profile: true
 ---

@@ -7,6 +7,11 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA" />
+    <title>{{ page.title | default: site.title }}</title>
+
     {% include head.html %}
     {% include head/custom.html %}
   </head>

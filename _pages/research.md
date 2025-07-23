@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 **[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** [📽️ Video](https://www.youtube.com/watch?v=ngF0-FqzKQA) May, 2025  
-_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ 
+_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -21,11 +21,10 @@ We find that the project secured property rights and access, raised land values 
 
 </p>
 </details>
-<!-- <br/> -->
+<br> 
 
 **[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** April, 2021 
-
-_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ 
+_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -41,7 +40,7 @@ Energy use and CO₂ emissions dropped, but mostly because of the persistent dec
 
 ## Work in Progress
 
-**Decomposing Aggregate Income Mobility**  
+**Decomposing Aggregate Income Mobility** <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -58,10 +57,9 @@ I apply this formula using a rich employer-employee matched dataset of all priva
 
 </p>
 </details>
-<!-- <br/> -->
+<br/>
 
-**Effects of the Minimum Wage on Lifetime Inequality**  
-
+**Effects of the Minimum Wage on Lifetime Inequality**  <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -77,7 +75,8 @@ Although the effects persist for several years, they gradually dissipate once th
 <!-- <br/> -->
 
 **Construction Dynamics in Sites and Services Projects** 
-_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ 
+
+_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>

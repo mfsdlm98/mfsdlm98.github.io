@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** May, 2025  
+**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** [📽️ Video](https://www.youtube.com/watch?v=ngF0-FqzKQA) May, 2025  
 _With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -21,7 +21,7 @@ We find that the project secured property rights and access, raised land values 
 
 </p>
 </details>
-<br/>
+<!-- <br/> -->
 
 **[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** April, 2021 
 
@@ -41,7 +41,7 @@ Energy use and CO₂ emissions dropped, but mostly because of the persistent dec
 
 ## Work in Progress
 
-**Decomposing Changes in Aggregate Income Mobility**  
+**Decomposing Aggregate Income Mobility**  
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -58,13 +58,28 @@ I apply this formula using a rich employer-employee matched dataset of all priva
 
 </p>
 </details>
-<br/>
+<!-- <br/> -->
 
 **Effects of the Minimum Wage on Lifetime Inequality**  
 
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
-Coming soon
+Permanent increases in the minimum wage compress the lower tail of the wage distribution, reducing cross-sectional measures of current income inequality. While the effects on static measures of inequality are well established, less is known about how the minimum wage shapes income inequality over longer horizons — such as lifetime inequality — which better captures individuals’ true differences in purchasing power.
+
+This paper takes a first step in assessing the effectiveness of minimum wage policy in reducing dynamic, rather than snapshot, measures of inequality. Using rich administrative employer-employee matched data from Portugal, and exploiting a large and permanent increase in the real minimum wage between 2007 and 2010, I estimate both the contemporaneous effects and their persistence in the years following the reform, tracking workers across the 2006 (pre-reform) earnings distribution.
+
+I find sizable wage and earnings gains during the reform period, with no adverse effects on hours or employment. These gains are not limited to workers earning below the new minimum wage but spill over to others up to the median of the 2006 wage distribution. Affected workers are more likely to switch firms, while remaining in the same industry and occupation, and there is reallocation toward more productive firms.
+
+Although the effects persist for several years, they gradually dissipate once the real minimum wage stops rising, with workers converging back toward the lifecycle earnings path they would have followed had the real minimum wage remained constant. As a result, the policy meaningfully reduces current income inequality but has more muted effects on inequality measured over longer horizons.
 </p>
 </details>
+<!-- <br/> -->
+
+**Construction Dynamics in Sites and Services Projects** 
+_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ 
+<details>
+<summary><strong>Abstract</strong></summary>
+<p>
+Coming soon
+</p>

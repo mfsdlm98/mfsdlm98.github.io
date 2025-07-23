@@ -72,10 +72,10 @@ I find sizable wage and earnings gains during the reform period, with no adverse
 Although the effects persist for several years, they gradually dissipate once the real minimum wage stops rising, with workers converging back toward the lifecycle earnings path they would have followed had the real minimum wage remained constant. As a result, the policy meaningfully reduces current income inequality but has more muted effects on inequality measured over longer horizons.
 </p>
 </details>
-<!-- <br/> -->
+<br/> 
+
 
 **Construction Dynamics in Sites and Services Projects** 
-
 _With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
 <details>
 <summary><strong>Abstract</strong></summary>

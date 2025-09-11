@@ -10,10 +10,12 @@ layout: compress
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA" />
-    <title>{{ page.title | default: site.title }}</title>
+
+    {% include head.html %}
 
     <!-- Custom favicon -->
-    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="icon" href="{{ '/images/favicon.png' | relative_url }}" type="image/png">
+    <link rel="shortcut icon" href="{{ '/images/favicon.png' | relative_url }}" type="image/png">
 
     <!-- Structured data for Google site name -->
     <script type="application/ld+json">
@@ -25,12 +27,10 @@ layout: compress
     }
     </script>
 
-    {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -44,6 +44,5 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>

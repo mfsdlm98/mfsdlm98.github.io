@@ -10,6 +10,7 @@ description: "PhD student at the London School of Economics"
 url: "https://mfsdlm98.github.io"
 baseurl: ""  # Leave empty for personal GitHub Pages site
 repository: "mfsdlm98/mfsdlm98.github.io"
+icon: "favicon.ico"  # Place this image in /images
 
 author:
   name: "Francisco Libano-Monteiro"

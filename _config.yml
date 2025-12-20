@@ -6,6 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 title: "Francisco Libano-Monteiro"
+name: "Francisco Libano-Monteiro"
 description: "PhD student at the London School of Economics"
 url: "https://mfsdlm98.github.io"
 baseurl: ""  # Leave empty for personal GitHub Pages site

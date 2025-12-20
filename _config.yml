@@ -17,10 +17,9 @@ author:
   avatar: "phd_picture_lowres.jpg"  # Place this image in /images
   bio: "PhD student at LSE"
   email: "m.f.libano-monteiro@lse.ac.uk"
-  location: "London, UK"
   employer: "London School of Economics"
   googlescholar: "https://scholar.google.co.uk/citations?user=YHtSUGIAAAAJ&hl=pt-PT&oi=ao"
-  github: "mfsdlm98"
+  twitter: "https://x.com/econ_libano"
 
 include:
   - _pages

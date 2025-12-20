@@ -40,7 +40,7 @@ Energy use and CO₂ emissions dropped, but mostly because of the persistent dec
 
 ## Work in Progress
 
-**The Impact of the Minimum on Inequality: Cross-Sectional vs Lifetime Perspectives**  <br>
+**The Impact of the Minimum Wage on Inequality: Cross-Sectional vs Lifetime Perspectives**  <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>

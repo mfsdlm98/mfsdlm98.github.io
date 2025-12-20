@@ -112,6 +112,15 @@
   </script>
 {% endif %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title }}",
+  "url": "{{ seo_url }}"
+}
+</script>
+
 {% if site.social %}
   <script type="application/ld+json">
     {

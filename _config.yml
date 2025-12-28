@@ -12,6 +12,8 @@ url: "https://mfsdlm98.github.io"
 baseurl: ""  # Leave empty for personal GitHub Pages site
 repository: "mfsdlm98/mfsdlm98.github.io"
 icon: "favicon.ico"  # Place this image in /images
+title_separator: "|"
+google_site_verification: "B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA"
 
 author:
   name: "Francisco Libano-Monteiro"

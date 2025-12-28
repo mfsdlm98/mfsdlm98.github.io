@@ -1,47 +1,32 @@
---- 
-layout: compress 
+---
+layout: compress
 ---
 
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-site-verification" content="B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA" />
-    <title>{{ page.title | default: site.title }}</title>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" {% if site.site_theme=="dark" %} data-theme="dark" {% endif
+  %}>
 
-    <!-- Custom favicon -->
-    <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    <!-- Structured data for Google site name -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Francisco Libano-Monteiro",
-      "url": "https://mfsdlm98.github.io"
-    }
-    </script>
+<body>
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+  {{ content }}
 
-  <body>
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
 
-    {{ content }}
+  {% include scripts.html %}
+</body>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-  </body>
 </html>

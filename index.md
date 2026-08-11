@@ -10,7 +10,7 @@ Welcome! I am a PhD candidate in Economics at the **London School of Economics**
 
 My research focuses on **income dynamics/mobility** and **inequality**. I also work on topics in **urban economics**.
 
-**I am on the 2026/27 economics job market and will be available for interviews.**
+**I am on the 2026/27 economics job market.**
 
 My job market paper is [*The Redistributive Power of the Minimum Wage: Current vs Lifetime Perspectives*](/research/).
 

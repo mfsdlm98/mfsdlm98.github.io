@@ -7,10 +7,10 @@
 # server process.
 title: "Francisco Libano-Monteiro"
 name: "Francisco Libano-Monteiro"
-description: "PhD student at the London School of Economics"
-url: "https://mfsdlm98.github.io"
+description: "PhD candidate at the London School of Economics"
+url: "https://franciscolibanomonteiro.github.io"
 baseurl: ""  # Leave empty for personal GitHub Pages site
-repository: "mfsdlm98/mfsdlm98.github.io"
+repository: "franciscolibanomonteiro/franciscolibanomonteiro.github.io"
 icon: "favicon.ico"  # Place this image in /images
 title_separator: "|"
 google_site_verification: "B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA"
@@ -18,7 +18,7 @@ google_site_verification: "B8Y-rUwDJdHj7kV5f9wdwFyFeuLjtUsDquK2VB4w4mA"
 author:
   name: "Francisco Libano-Monteiro"
   avatar: "phd_picture_lowres.jpg"  # Place this image in /images
-  bio: "PhD student at LSE"
+  bio: "PhD candidate at LSE"
   email: "m.f.libano-monteiro@lse.ac.uk"
   employer: "London School of Economics"
   googlescholar: "https://scholar.google.co.uk/citations?user=YHtSUGIAAAAJ&hl=pt-PT&oi=ao"

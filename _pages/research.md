@@ -5,42 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Job Market Paper
 
-**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** [📽️ Video](https://www.youtube.com/watch?v=ngF0-FqzKQA) May, 2025  
-_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
-<details>
-<summary><strong>Abstract</strong></summary>
-<p>
-
-Urban planning has shaped cities for millennia, demarcating property rights and mitigating coordination failures, but its rigidities often conflict with market-driven development, which reflects preferences. Although planning is widespread in high-income countries, rapidly growing cities in the developing world are characterized by urban informality. Despite its importance, urban planning lacks an economic framework to evaluate planners’ choices. This paper offers a starting framework and applies it to a flagship project in Dar es Salaam, Tanzania, which partitioned greenfield land on the urban fringe into more than 36,000 formal plots that people purchased and built homes on.
-
-To study this project, we assemble a novel dataset using administrative records, satellite imagery, and primary surveys. We develop and estimate a dynamic model in which planning design constrains the decisions of households of varying incomes to sort into formal areas. This model complements our reduced-form analysis, which uses within-neighborhood variation and spatial RD to study planning choices’ effects.
-
-We find that the project secured property rights and access, raised land values relative to unplanned areas, and attracted highly educated owners. Within project areas, access to main paved roads, gridded layouts, and natural amenities are valued; plot development and public service provision have been slow; and the price elasticity of bare land with respect to plot size is -0.5. Counterfactual analysis using the model shows that while land value maximization involves the provision of larger plots, welfare maximization entails the provision of smaller plots to serve more lower-income people.
-
-</p>
-</details>
-<br> 
-
-**[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** April, 2021 
-_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ <br>
-<details>
-<summary><strong>Abstract</strong></summary>
-<p>
-
-COVID-19 has had a disruptive economic impact in 2020, but how long its impact will persist remains unclear. We offer a prognosis based on an analysis of the effects of five previous major epidemics in this century. We find that these pandemics led to significant and persistent reductions in disposable income, along with increases in unemployment, income inequality and public debt-to-GDP ratios.
-
-Energy use and CO₂ emissions dropped, but mostly because of the persistent decline in the level of economic activity rather than structural changes in the energy sector. Applying our empirical estimates to project the impact of COVID-19, we foresee significant scarring in economic performance and income distribution through 2025, which could be associated with an increase in poverty of about 75 million people. Policy responses more effective than those in the past would be required to forestall these outcomes.
-
-</p>
-</details>
-
----
-
-## Work in Progress
-
-**The Impact of the Minimum Wage on Inequality: Cross-Sectional vs Lifetime Perspectives**  <br>
+**The Redistributive Power of the Minimum Wage: Current vs Lifetime Perspectives** <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -61,9 +28,12 @@ meaningfully reduces current income inequality but has more muted effects on lif
 inequality.
 </p>
 </details>
-<br/> 
 
-**Decomposing Aggregate Income Mobility** <br>
+---
+
+## Working Papers
+
+**Decomposing Changes in Income Mobility** <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
@@ -80,13 +50,47 @@ I apply this formula using a rich employer-employee matched dataset of all priva
 
 </p>
 </details>
-<br/>
+<br>
 
-
-**Dynamics of Greenfield Development: Evidence from Tanzania** 
+**[Economics of Greenfield Urban Planning](../files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** August, 2026  
 _With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
-Coming soon
+
+Urban planning has shaped cities for millennia, demarcating property rights and mitigating coordination failures, but its rigidities often conflict with market-driven development, which reflects preferences. Although planning is widespread in high-income countries, rapidly growing cities in the developing world are characterized by urban informality. Despite its importance, urban planning lacks an economic framework to evaluate planners’ choices. This paper offers a starting framework and applies it to a flagship project in Dar es Salaam, Tanzania, which partitioned greenfield land on the urban fringe into more than 36,000 formal plots that people purchased and built homes on.
+
+To study this project, we assemble a novel dataset using administrative records, satellite imagery, and primary surveys. We develop and estimate a dynamic model in which planning design constrains the decisions of households of varying incomes to sort into formal areas. This model complements our reduced-form analysis, which uses within-neighborhood variation and spatial RD to study planning choices’ effects.
+
+We find that the project secured property rights and access, raised land values relative to unplanned areas, and attracted highly educated owners. Within project areas, access to main paved roads, gridded layouts, and natural amenities are valued; plot development and public service provision have been slow; and the price elasticity of bare land with respect to plot size is -0.5. Counterfactual analysis using the model shows that while land value maximization involves the provision of larger plots, welfare maximization entails the provision of smaller plots to serve more lower-income people.
+
 </p>
+</details>
+<br>
+
+**[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](../files/wpiea2021119-print-pdf.pdf)** (Pre-PhD) April, 2021 
+_With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ <br>
+IMF Working Paper 2021/119 <br>
+<details>
+<summary><strong>Abstract</strong></summary>
+<p>
+
+COVID-19 has had a disruptive economic impact in 2020, but how long its impact will persist remains unclear. We offer a prognosis based on an analysis of the effects of five previous major epidemics in this century. We find that these pandemics led to significant and persistent reductions in disposable income, along with increases in unemployment, income inequality and public debt-to-GDP ratios.
+
+Energy use and CO₂ emissions dropped, but mostly because of the persistent decline in the level of economic activity rather than structural changes in the energy sector. Applying our empirical estimates to project the impact of COVID-19, we foresee significant scarring in economic performance and income distribution through 2025, which could be associated with an increase in poverty of about 75 million people. Policy responses more effective than those in the past would be required to forestall these outcomes.
+
+</p>
+</details>
+
+---
+
+## Work in Progress
+
+**Dynamics of Greenfield Development** [📄 Slides](../files/Dynamics_of_Greenfield_Development_Slides.pdf) [📽️ Video](https://www.youtube.com/watch?v=ngF0-FqzKQA) <br>
+_With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
+<details>
+<summary><strong>Abstract</strong></summary>
+<p>
+Coming soon.
+</p>
+</details>

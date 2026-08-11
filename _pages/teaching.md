@@ -5,24 +5,27 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+**LSE Class Teacher Bonus Award**, 2022, 2023, 2024, 2025, 2026
 
-**EC325 – Public Economics** (2022–2025, LSE)  
-_Course Manager and Teaching Assistant_  
-**Lecturers:** Camille Landais, Kate Smith  
-**Teaching evaluations:** 2024/25 (4.9/5), 2023/24 (4.8/5), 2022/23 (4.9/5)
+## London School of Economics
 
-**EC400 – Static Optimization and Fixed Points; Dynamic Programming and Differential Equations** (2023–2024, LSE)  
-_Teaching Assistant_  
-**Lecturers:** Francesco Nava, Dmitry Mukhin  
-**Teaching evaluations:** 2024 (5/5), 2023 (4.8/5)
+**EC325 – Public Economics** (2022/26)  
+_Course Manager and Class Teacher_ — Lecturers: Camille Landais, Kate Smith  
+Evaluations: [2025/26 (5/5)](/files/evaluations/EC325_2025-26.pdf) · [2024/25 (4.9/5)](/files/evaluations/EC325_2024-25.pdf) · [2023/24 (4.8/5)](/files/evaluations/EC325_2023-24.pdf) · [2022/23 (4.9/5)](/files/evaluations/EC325_2022-23.pdf)
 
-**EC220 – Macroeconomics** (2024, LSE Summer School)  
-_Teaching Assistant_  
-**Lecturer:** Kevin Sheedy  
-**Teaching evaluations:** 2024 (4.5/5)
+**EC400 – Static Optimization and Fixed Points; Dynamic Programming and Differential Equations** (2023/24)  
+_Class Teacher_ — Lecturers: Francesco Nava, Dmitry Mukhin  
+Evaluations: [2024 (5/5)](/files/evaluations/EC400_2024.pdf) · [2023 (4.8/5)](/files/evaluations/EC400_2023.pdf)
 
-**EC210 – Macroeconomic Principles** (2021–2022, LSE)  
-_Teaching Assistant_  
-**Lecturers:** Ricardo Reis, Kevin Sheedy  
-**Teaching evaluations:** 2021/22 (4.5/5)
+**EC210 – Macroeconomic Principles** (2021/22)  
+_Class Teacher_ — Lecturers: Ricardo Reis, Kevin Sheedy  
+Evaluations: [2021/22 (4.5/5)](/files/evaluations/EC210_2021-22.pdf)
+
+## LSE Summer School
+
+**EC202 – Macroeconomics** (2024/25)  
+_Class Teacher_ — Lecturer: Kevin Sheedy  
+Evaluations: [2024 (4.5/5)](/files/evaluations/EC202_2024.pdf)
+
+**EC270 – Public Finance**  
+_Class Teacher_

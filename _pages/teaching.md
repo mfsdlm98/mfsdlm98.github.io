@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**LSE Class Teacher Bonus Award**, 2022, 2023, 2024, 2025, 2026
-
 ## London School of Economics
 
 **EC325 – Public Economics** (2022/26)  

@@ -23,9 +23,8 @@ Evaluations: [2021/22 (4.5/5)](/files/evaluations/EC210_2021-22.pdf)
 
 ## LSE Summer School
 
-**EC202 – Macroeconomics** (2024/25)  
-_Class Teacher_ — Lecturer: Kevin Sheedy  
-Evaluations: [2024 (4.5/5)](/files/evaluations/EC202_2024.pdf)
+**EC202 – Macroeconomics** (2024, 2025)  
+_Class Teacher_ — Lecturer: Kevin Sheedy
 
-**EC270 – Public Finance**  
-_Class Teacher_
+**EC270 – Public Finance** (2025)  
+_Class Teacher_ — Lecturers: Kate Smith, Pasquale Schiraldi

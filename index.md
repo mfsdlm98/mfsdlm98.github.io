@@ -12,7 +12,7 @@ I also work on the dynamics of urban development and the design and economics of
 
 **I am on the 2026/27 economics job market.**
 
-You can reach me at m.f.libano-monteiro@lse.ac.uk
+You can download my [CV](/files/CV_FranciscoLibanoMonteiro.pdf) and reach me at m.f.libano-monteiro@lse.ac.uk
 
 ---
 

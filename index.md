@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a PhD candidate at the **London School of Economics** working on **income dynamics and inequality** and how redistributive policies can have very different annual and lifetime impacts on low-income workers.
+I am a PhD candidate at the **London School of Economics** working on **income dynamics and inequality** and how redistributive policies can have very different current and lifetime impacts on low-income workers.
 
 I also work on the dynamics of **urban planning** development — whether urban planning is warranted or should be left to market forces and, if so, how to best design it.
 

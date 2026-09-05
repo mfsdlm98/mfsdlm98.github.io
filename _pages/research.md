@@ -7,25 +7,11 @@ author_profile: true
 
 ## Job Market Paper
 
-**The Redistributive Power of the Minimum Wage: Current vs Lifetime Perspectives** <br>
+**Does the Minimum Wage Reduce Inequality? Current vs Lifetime Perspectives** <br>
 <details>
 <summary><strong>Abstract</strong></summary>
 <p>
-Permanent increases in the minimum wage compress the lower tail of the wage distribution, reducing cross-sectional current labor income inequality. While the effects on
-snapshot measures of inequality are well established, less is known about how the minimum wage shapes lifetime inequality, which better captures individuals’ disparities in resources. Using rich administrative employer-employee matched data from Portugal
-and exploiting a minimum wage reform consisting of a large and permanent increase
-in the national real minimum wage between 2007 and 2010, I estimate individual-level
-effects during the reform and their subsequent effects in the years that follow the reform
-(8 years after the start of the reform) for workers across the 2006 wage distribution.
-Although the effects remain persistent for a few years, they relatively quickly dissipate
-once the real minimum wage stops rising, with workers converging back toward what
-their lifecycle wage and earnings trajectories in the absence of the real minimum wage
-increase. The transitory effects of this permanent minimum wage increase arise from
-two key mechanisms: (1) substantial labor income mobility causes low-wage workers
-to grow out of minimum wage exposure over time, and (2) the reform generates minimal impact on determinants of future wages—no effects on hours or employment, and
-only modest firm reallocation toward more productive firms. As a result, the policy
-meaningfully reduces current income inequality but has more muted effects on lifetime
-inequality.
+Minimum wages (MW) can strongly compress current wage inequality by raising wages and earnings at the bottom, but do present gains to low-wage workers persist over their lifetime or do they come at the expense of lower future earnings? Using administrative records covering the universe of private-sector employment in Portugal, I study a 16.2% real increase in the national MW from 2006 to 2010 followed by a plateau until 2014. By 2010, workers earning the MW in 2006 experienced wage and earnings growth 10 percentage points higher than they would have had the MW stayed at the 2006 level, but only 4 percentage points remained by 2014. Spillover gains for workers initially above the floor in 2006 faded almost completely by 2014. This dissipation is not explained by adverse employment or hours effects, or by adverse changes in workers' careers due to the policy. Instead, workers rapidly grow out of minimum-wage exposure and spend only a small fraction of their working lives near the floor. A statistical wage process, estimated from stable pre-reform wage dynamics and the reform's treatment effects, allows me to extrapolate beyond the eight-year empirical horizon and quantify the policy's incidence on lifetime inequality. The policy raises the lowest percentiles of lifetime earnings by about 5%, compared with 16.2% for current earnings. Finally, upward income mobility does not necessarily weaken the case for the policy when individuals cannot insure themselves, since the policy provides insurance against spending time at the bottom of the wage distribution.
 </p>
 </details>
 

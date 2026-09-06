@@ -1,4 +1,18 @@
+{% comment %}
+PARKED: research list WITH figure thumbnails (Sept 2026). Not used by any page.
+To re-enable: rename this file over research_content.md (styles are in _sass/_paper-thumbs.scss, already imported).
+Ideas noted when parking:
+  * several figures per paper -> either a composite image (panels side by side, made with Pillow)
+    or a 2-up CSS grid inside .paper__thumb;
+  * consistent sizing -> render every thumb onto a fixed 3:2 canvas (letterbox), same width, same border;
+  * alternative layout "Abstract & Figure" -> put the figure inside the <details> block next to the
+    abstract, so the list stays clean and the figure can be larger when expanded.
+Source images live in images/papers/ (jmp.png, mobility.png, greenfield.jpg, pandemics.png).
+{% endcomment %}
 ### Job Market Paper
+
+<div class="paper">
+<div class="paper__body" markdown="1">
 
 **Does the Minimum Wage Reduce Inequality? Current vs Lifetime Perspectives** <br>
 <details>
@@ -8,9 +22,16 @@ Minimum wages (MW) can strongly compress current wage inequality by raising wage
 </p>
 </details>
 
+</div>
+<span class="paper__thumb"><img src="/images/papers/jmp.png" alt="Wage trajectories of 2006 minimum-wage workers, actual vs counterfactual, 2006–2014"></span>
+</div>
+
 ---
 
 ### Working Papers
+
+<div class="paper">
+<div class="paper__body" markdown="1">
 
 **Decomposing Changes in Income Mobility** <br>
 <details>
@@ -29,7 +50,13 @@ I apply this formula using a rich employer-employee matched dataset of all priva
 
 </p>
 </details>
-<br>
+
+</div>
+<span class="paper__thumb"><img src="/images/papers/mobility.png" alt="Decomposition of the change in the rank-rank slope since 1986 into within, inequality, compositional and group-gap components"></span>
+</div>
+
+<div class="paper">
+<div class="paper__body" markdown="1">
 
 **[Economics of Greenfield Urban Planning](/files/Economics%20of%20Greenfield%20Urban%20Planning.pdf)** August, 2026  
 _With Vernon Henderson, Guy Michaels, Martina Manara, and Tanner Regan_ <br>
@@ -45,7 +72,13 @@ We find that the project secured property rights and access, raised land values 
 
 </p>
 </details>
-<br>
+
+</div>
+<a class="paper__thumb" href="/files/Economics%20of%20Greenfield%20Urban%20Planning.pdf"><img src="/images/papers/greenfield.jpg" alt="Map of the 20,000 Plots project areas around Dar es Salaam"></a>
+</div>
+
+<div class="paper">
+<div class="paper__body" markdown="1">
 
 **[Will the Economic Impact of COVID-19 Persist? Prognosis from 21st Century Pandemics](/files/wpiea2021119-print-pdf.pdf)** (Pre-PhD) April, 2021 
 _With Johannes Emmerling, Davide Furceri, Prakash Loungani, Jonathan Ostry, Pietro Pizzuto, Massimo Tavoni_ <br>
@@ -60,6 +93,10 @@ Energy use and CO₂ emissions dropped, but mostly because of the persistent dec
 
 </p>
 </details>
+
+</div>
+<a class="paper__thumb" href="/files/wpiea2021119-print-pdf.pdf"><img src="/images/papers/pandemics.png" alt="Response of the Gini coefficient in the five years after a pandemic event"></a>
+</div>
 
 ---
 
